@@ -1,5 +1,5 @@
 #                                   "Modele nieparametryczne"
-#                              "Marta Jagowdzik i Milena Chróśniak"
+#                                        "Marta Jagowdzik"
 #                                        data: 19.01.2024
 
 
@@ -34,7 +34,7 @@
 
 ## Wczytanie zbioru 
 
-load("/Users/polajankowska/Desktop/Projekt Arek/dane_zaliczenie.RData")
+load("dane_zaliczenie.RData")
 
 
 ## Biblioteki
